@@ -1,2 +1,2 @@
 # Tesina e Diagramma 
-* consultare la cartella "/Testo Tesina
+## Per poter consultare la tesina ed il Diagramma UML andare sulla cartella "/Testo Tesina
