@@ -1,1 +1,2 @@
-# Per consultare la Tesina completa andare sulla cartella "/Testo Tesina"
+# Tesina e Diagramma 
+* consultare la cartella "/Testo Tesina
