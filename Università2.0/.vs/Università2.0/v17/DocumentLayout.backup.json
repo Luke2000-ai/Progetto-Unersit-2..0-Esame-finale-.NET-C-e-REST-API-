@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UNIEURO\\Desktop\\Esame_Pace 28092025\\Universit\u00E02.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B45B4AD-E43E-431A-9464-66220878CC61}|Universit\u00E02.0\\Universit\u00E02.0.csproj|c:\\users\\unieuro\\desktop\\esame_pace 28092025\\universit\u00E02.0\\universit\u00E02.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B45B4AD-E43E-431A-9464-66220878CC61}|Universit\u00E02.0\\Universit\u00E02.0.csproj|solutionrelative:universit\u00E02.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B45B4AD-E43E-431A-9464-66220878CC61}|Universit\u00E02.0\\Universit\u00E02.0.csproj|c:\\users\\unieuro\\desktop\\esame_pace 28092025\\universit\u00E02.0\\universit\u00E02.0\\classi\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B45B4AD-E43E-431A-9464-66220878CC61}|Universit\u00E02.0\\Universit\u00E02.0.csproj|solutionrelative:universit\u00E02.0\\classi\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B45B4AD-E43E-431A-9464-66220878CC61}|Universit\u00E02.0\\Universit\u00E02.0.csproj|c:\\users\\unieuro\\desktop\\esame_pace 28092025\\universit\u00E02.0\\universit\u00E02.0\\classi\\corso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B45B4AD-E43E-431A-9464-66220878CC61}|Universit\u00E02.0\\Universit\u00E02.0.csproj|solutionrelative:universit\u00E02.0\\classi\\corso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B45B4AD-E43E-431A-9464-66220878CC61}|Universit\u00E02.0\\Universit\u00E02.0.csproj|c:\\users\\unieuro\\desktop\\esame_pace 28092025\\universit\u00E02.0\\universit\u00E02.0\\classi\\credenziali.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B45B4AD-E43E-431A-9464-66220878CC61}|Universit\u00E02.0\\Universit\u00E02.0.csproj|solutionrelative:universit\u00E02.0\\classi\\credenziali.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Credenziali.cs",
+              "DocumentMoniker": "C:\\Users\\UNIEURO\\Desktop\\Esame_Pace 28092025\\Universit\u00E02.0\\Universit\u00E02.0\\Classi\\Credenziali.cs",
+              "RelativeDocumentMoniker": "Universit\u00E02.0\\Classi\\Credenziali.cs",
+              "ToolTip": "C:\\Users\\UNIEURO\\Desktop\\Esame_Pace 28092025\\Universit\u00E02.0\\Universit\u00E02.0\\Classi\\Credenziali.cs",
+              "RelativeToolTip": "Universit\u00E02.0\\Classi\\Credenziali.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T10:28:52.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UNIEURO\\Desktop\\Esame_Pace 28092025\\Universit\u00E02.0\\Universit\u00E02.0\\Program.cs",
+              "RelativeDocumentMoniker": "Universit\u00E02.0\\Program.cs",
+              "ToolTip": "C:\\Users\\UNIEURO\\Desktop\\Esame_Pace 28092025\\Universit\u00E02.0\\Universit\u00E02.0\\Program.cs",
+              "RelativeToolTip": "Universit\u00E02.0\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAABYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T10:25:57.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Corso.cs",
+              "DocumentMoniker": "C:\\Users\\UNIEURO\\Desktop\\Esame_Pace 28092025\\Universit\u00E02.0\\Universit\u00E02.0\\Classi\\Corso.cs",
+              "RelativeDocumentMoniker": "Universit\u00E02.0\\Classi\\Corso.cs",
+              "ToolTip": "C:\\Users\\UNIEURO\\Desktop\\Esame_Pace 28092025\\Universit\u00E02.0\\Universit\u00E02.0\\Classi\\Corso.cs",
+              "RelativeToolTip": "Universit\u00E02.0\\Classi\\Corso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T10:25:52.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Studente.cs",
+              "DocumentMoniker": "C:\\Users\\UNIEURO\\Desktop\\Esame_Pace 28092025\\Universit\u00E02.0\\Universit\u00E02.0\\Classi\\Studente.cs",
+              "RelativeDocumentMoniker": "Universit\u00E02.0\\Classi\\Studente.cs",
+              "ToolTip": "C:\\Users\\UNIEURO\\Desktop\\Esame_Pace 28092025\\Universit\u00E02.0\\Universit\u00E02.0\\Classi\\Studente.cs",
+              "RelativeToolTip": "Universit\u00E02.0\\Classi\\Studente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T10:25:38.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
