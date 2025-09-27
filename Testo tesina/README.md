@@ -43,7 +43,6 @@ Funzione: che permette l'autenticazione dell'utente (in questo caso degli studen
 * {
   "username": "Dante",
   "password": "Alighieri",
-  "email": "dante@alighieri.it"
 }
 
 * Risposta 
