@@ -213,5 +213,3 @@ Pur essendo semplificato, questa permette di comprendere al meglio i concetti fo
 Il Progetto Universita2.0 dimostra che anche con una semplicissima base sia possibile sviluppare un sistema che sia scalabile, semplice, chiaro ed estendibile.
 In un lontano futuro l'applicazione potrebbe evolversi, aggiornarsi con nuove feature, introducendo anche un database relazionale e un nuovo versioning per le API per supportare le nuove funzionalità.
 
-## Questo è il link alla repository 
-### https://github.com/Luke2000-ai/Progetto-Unersit-2..0-Esame-finale-.NET-C-e-REST-API-/tree/main/Universit%C3%A02.0
